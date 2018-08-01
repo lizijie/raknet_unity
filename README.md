@@ -5,7 +5,7 @@ raknet_unity is a project to build raknet library for the platforms below
   * [x] x86
   * [ ] x86_64
   * [ ] arm64-v8a
-
+**[]iOS**<br>
 **[x] widnow**<br>
 **[ ] mac**<br>
 **[ ] linux**<br>
