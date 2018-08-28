@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/_FindFirst.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/_FindFirst.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/_FindFirst.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/_FindFirst.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/AutopatcherPatchContext.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/_FindFirst.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/AutopatcherPatchContext.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Base64Encoder.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Base64Encoder.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/BitStream.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Base64Encoder.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Base64Encoder.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/BitStream.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/BitStream.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CCRakNetSlidingWindow.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CCRakNetSlidingWindow.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CCRakNetUDT.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CCRakNetUDT.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CheckSum.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CheckSum.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CheckSum.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CloudCommon.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudCommon.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/_FindFirst.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/AutopatcherPatchContext.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/AutopatcherRepositoryInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CCRakNetSlidingWindow.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CCRakNetUDT.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CCRakNetUDT.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CheckSum.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CloudClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CloudClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CloudCommon.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CloudServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CMakeLists.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ConnectionGraph2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ConsoleServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ConsoleServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DirectoryDeltaTransfer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DirectoryDeltaTransfer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DR_SHA1.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DR_SHA1.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DR_SHA1.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DR_SHA1.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_BinarySearchTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_BytePool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_BytePool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_ByteQueue.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_ByteQueue.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Hash.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Heap.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_HuffmanEncodingTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_HuffmanEncodingTreeNode.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_MemoryPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_BinarySearchTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_BPlusTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_BytePool.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_ByteQueue.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Hash.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Heap.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_HuffmanEncodingTree.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_HuffmanEncodingTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_HuffmanEncodingTreeFactory.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_HuffmanEncodingTreeNode.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_LinkedList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_List.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Map.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_MemoryPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Multilist.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_OrderedChannelHeap.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_OrderedList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_OrderedChannelHeap.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_OrderedList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Queue.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_QueueLinkedList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_RangeList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Table.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Table.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_ThreadsafeAllocatingQueue.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Tree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Tree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_WeightedGraph.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DynDNS.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DynDNS.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DynDNS.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_WeightedGraph.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DynDNS.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/EmailSender.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileListTransfer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Table.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/EmailSender.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/EmailSender.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/EmptyHeader.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/EpochTimeToString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/EpochTimeToString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Export.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileList.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileListNodeContext.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileListTransfer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileListTransfer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileListTransferCBInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileOperations.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FormatString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FullyConnectedMesh2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Gets.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Gets.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/GetTime.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/gettimeofday.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/GridSectorizer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/HTTPConnection.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/GridSectorizer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/HTTPConnection.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/HTTPConnection.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/IncrementalReadInterface.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/gettimeofday.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/gettimeofday.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/GridSectorizer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/HTTPConnection.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/HTTPConnection2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/HTTPConnection2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/IncrementalReadInterface.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/IncrementalReadInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/InternalPacket.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Itoa.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Itoa.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Kbhit.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LinuxStrings.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/LocklessTypes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/LocklessTypes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/LogCommandParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LogCommandParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/MessageFilter.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/MessageIdentifiers.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatPunchthroughClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatPunchthroughClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatPunchthroughClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/MessageFilter.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/MessageIdentifiers.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/MTUSize.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NativeFeatureIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NativeFeatureIncludesOverrides.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NativeTypes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatPunchthroughClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatPunchthroughServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatPunchthroughServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionCommon.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatTypeDetectionServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatTypeDetectionServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NetworkIDManager.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NetworkIDManager.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NetworkIDObject.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketConsoleLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketConsoleLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketFileLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketFileLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketConsoleLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketFileLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketizedTCP.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketizedTCP.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/LogCommandParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/MessageFilter.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatPunchthroughServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatTypeDetectionClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatTypeDetectionClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatTypeDetectionCommon.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NatTypeDetectionCommon.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NetworkIDManager.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NetworkIDObject.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/NetworkIDObject.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketizedTCP.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketizedTCP.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketOutputWindowLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PluginInterface2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PluginInterface2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PS3Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PS4Includes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PS4Includes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PS4Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Rackspace.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakAssert.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakMemoryOverride.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Rackspace.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakAlloca.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakMemoryOverride.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakMemoryOverride.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNet_vc8.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNet.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/LinuxStrings.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketOutputWindowLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketOutputWindowLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PacketPriority.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PluginInterface2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PS3Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/PS4Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Rackspace.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakMemoryOverride.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNet_vc8.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNet_vc9.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNet.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetCommandParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetCommandParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetCommandParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetDefines.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetDefinesOverrides.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetDefinesOverrides.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSmartPtr.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_360_720.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_Berkley_NativeClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_360_720.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_Berkley_NativeClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_Berkley.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_NativeClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_PS3_PS4.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_PS4.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_Windows_Linux_360.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_WindowsStore8.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_WindowsStore8.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetTransport2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetTransport2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetTypes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakPeer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakPeer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakPeerInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakSleep.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakPeer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakPeerInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakSleep.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakSleep.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetStatistics.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetStatistics.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetTime.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetTransport2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetTypes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetTypes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetVersion.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakThread.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakThread.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakWString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakWString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakWString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakWString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Rand.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Rand.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RandSync.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReadyEvent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RandSync.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ReadyEvent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ReadyEvent.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RefCountedObj.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RelayPlugin.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakThread.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Rand.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Rand.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RandSync.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RefCountedObj.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RelayPlugin.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RelayPlugin.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReliabilityLayer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ReliabilityLayer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ReliabilityLayer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReplicaEnums.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReplicaManager3.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RelayPlugin.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ReplicaEnums.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ReplicaManager3.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReplicaManager3.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Router2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Router2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Router2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RPC4Plugin.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ReplicaManager3.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RPC4Plugin.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RPC4Plugin.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SecureHandshake.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SecureHandshake.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SecureHandshake.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SendToThread.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SecureHandshake.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SendToThread.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SendToThread.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SignaledEvent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SignaledEvent.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SimpleMutex.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RPC4Plugin.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SignaledEvent.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SimpleMutex.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SimpleMutex.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSmartPtr.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_PS3_PS4.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_PS4.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_Vita.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_Windows_Linux_360.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetSocket2_Windows_Linux.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakThread.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SimpleMutex.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SimpleTCPServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SocketDefines.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SocketLayer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CloudServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CMakeLists.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CommandParserInterface.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/CommandParserInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ConnectionGraph2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ConnectionGraph2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ConsoleServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DataCompressor.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DataCompressor.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_Multilist.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/DS_RangeList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileListTransferCBInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileOperations.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FileOperations.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FormatString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FormatString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FullyConnectedMesh2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/FullyConnectedMesh2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Getche.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Getche.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/Gets.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/GetTime.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/GetTime.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/LinuxStrings.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetCommandParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/RakNetDefines.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SimpleTCPServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SingleProducerConsumer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SocketDefines.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SocketIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SocketLayer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SocketLayer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StatisticsHistory.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/StatisticsHistory.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/StatisticsHistory.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/StringCompressor.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StringCompressor.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SuperFastHash.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TableSerializer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TableSerializer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TableSerializer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TableSerializer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TCPInterface.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TCPInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TeamBalancer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TCPInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TeamBalancer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TeamBalancer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/StringCompressor.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/StringTable.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/StringTable.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SuperFastHash.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TeamBalancer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TeamManager.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TelnetTransport.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ThreadPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TransportInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TwoWayAuthentication.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPForwarder.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TeamManager.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TelnetTransport.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TelnetTransport.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ThreadPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ThreadsafePacketLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/ThreadsafePacketLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TransportInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TwoWayAuthentication.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TwoWayAuthentication.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPForwarder.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPForwarder.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyCoordinator.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPProxyClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPProxyClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPProxyCommon.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPProxyCoordinator.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPProxyCoordinator.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPProxyServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/UDPProxyServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariableDeltaSerializer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VariableDeltaSerializer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VariableListDeltaTracker.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariableListDeltaTracker.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariadicSQLParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariadicSQLParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VariadicSQLParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VitaIncludes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VitaIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/TeamManager.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VariableDeltaSerializer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VariableListDeltaTracker.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VariadicSQLParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/VitaIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/WindowsIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/WSAStartupSingleton.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/WSAStartupSingleton.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/XBox360Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/AutopatcherRepositoryInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Base64Encoder.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Base64Encoder.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/BitStream.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/BitStream.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CCRakNetSlidingWindow.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CCRakNetSlidingWindow.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CCRakNetUDT.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CCRakNetUDT.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CheckSum.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CheckSum.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudCommon.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudCommon.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CloudServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CMakeLists.txt">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CommandParserInterface.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/CommandParserInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ConnectionGraph2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ConnectionGraph2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ConsoleServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ConsoleServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DataCompressor.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DataCompressor.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DirectoryDeltaTransfer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DirectoryDeltaTransfer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DR_SHA1.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DR_SHA1.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_BinarySearchTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_BPlusTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_BytePool.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_BytePool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_ByteQueue.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_ByteQueue.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Hash.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Heap.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_HuffmanEncodingTree.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_HuffmanEncodingTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_HuffmanEncodingTreeFactory.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_HuffmanEncodingTreeNode.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_LinkedList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_List.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Map.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_MemoryPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Multilist.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_OrderedChannelHeap.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_OrderedList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Queue.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_QueueLinkedList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_RangeList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Table.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Table.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_ThreadsafeAllocatingQueue.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_Tree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DS_WeightedGraph.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DynDNS.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/DynDNS.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/EmailSender.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/EmailSender.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/EmptyHeader.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/EpochTimeToString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/EpochTimeToString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Export.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileList.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileList.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileListNodeContext.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileListTransfer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileListTransfer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileListTransferCBInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileOperations.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FileOperations.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FormatString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FormatString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FullyConnectedMesh2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/FullyConnectedMesh2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Getche.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Getche.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Gets.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Gets.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/GetTime.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/GetTime.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/gettimeofday.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/gettimeofday.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/GridSectorizer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/GridSectorizer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/HTTPConnection.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/HTTPConnection.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/HTTPConnection2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/HTTPConnection2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/IncrementalReadInterface.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/IncrementalReadInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/InternalPacket.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Itoa.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Itoa.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Kbhit.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LinuxStrings.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LinuxStrings.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LocklessTypes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LocklessTypes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LogCommandParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/LogCommandParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/MessageFilter.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/MessageFilter.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/MessageIdentifiers.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/MTUSize.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NativeFeatureIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NativeFeatureIncludesOverrides.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NativeTypes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatPunchthroughClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatPunchthroughClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatPunchthroughServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatPunchthroughServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionCommon.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionCommon.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NatTypeDetectionServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NetworkIDManager.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NetworkIDManager.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NetworkIDObject.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/NetworkIDObject.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketConsoleLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketConsoleLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketFileLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketFileLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketizedTCP.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketizedTCP.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketOutputWindowLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketOutputWindowLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PacketPriority.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PluginInterface2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PluginInterface2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PS3Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PS4Includes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/PS4Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Rackspace.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Rackspace.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakAlloca.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakAssert.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakMemoryOverride.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakMemoryOverride.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNet_vc8.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNet_vc9.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNet.vcproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetCommandParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetCommandParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetDefines.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetDefinesOverrides.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSmartPtr.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_360_720.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_Berkley_NativeClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_Berkley.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_NativeClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_PS3_PS4.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_PS4.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_Vita.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_Windows_Linux_360.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_Windows_Linux.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2_WindowsStore8.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetSocket2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetStatistics.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetStatistics.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetTime.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetTransport2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetTransport2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetTypes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetTypes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakNetVersion.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakPeer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakPeer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakPeerInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakSleep.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakSleep.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakThread.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakThread.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakWString.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RakWString.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Rand.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Rand.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RandSync.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RandSync.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReadyEvent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReadyEvent.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RefCountedObj.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RelayPlugin.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RelayPlugin.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReliabilityLayer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReliabilityLayer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReplicaEnums.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReplicaManager3.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ReplicaManager3.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Router2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/Router2.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RPC4Plugin.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/RPC4Plugin.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SecureHandshake.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SecureHandshake.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SendToThread.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SendToThread.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SignaledEvent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SignaledEvent.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SimpleMutex.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SimpleMutex.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SimpleTCPServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SingleProducerConsumer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SocketDefines.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SocketIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SocketLayer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SocketLayer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StatisticsHistory.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StatisticsHistory.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StringCompressor.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StringCompressor.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StringTable.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/StringTable.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SuperFastHash.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/SuperFastHash.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TableSerializer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TableSerializer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TCPInterface.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TCPInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TeamBalancer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TeamBalancer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TeamManager.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TeamManager.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TelnetTransport.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TelnetTransport.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ThreadPool.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ThreadsafePacketLogger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/ThreadsafePacketLogger.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TransportInterface.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TwoWayAuthentication.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/TwoWayAuthentication.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPForwarder.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPForwarder.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyClient.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyClient.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyCommon.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyCoordinator.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyCoordinator.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyServer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/UDPProxyServer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariableDeltaSerializer.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariableDeltaSerializer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariableListDeltaTracker.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariableListDeltaTracker.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariadicSQLParser.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VariadicSQLParser.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VitaIncludes.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/VitaIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/WindowsIncludes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/WSAStartupSingleton.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/WSAStartupSingleton.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../../RakNet_PC-4.082/Source/XBox360Includes.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/SocketLayer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/WSAStartupSingleton.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../RakNet/Source/XBox360Includes.h">
+   </FileRef>
+   <FileRef
+      location = "self:RakNet.xcodeproj">
+   </FileRef>
+</Workspace>
