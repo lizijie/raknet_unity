@@ -359,6 +359,9 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
+				RelativePath="..\..\Swig\SwigOutput\CplusDLLIncludes\RakNet_wrap.cxx"
+				>
+			<File
 				RelativePath="..\..\Source\_FindFirst.cpp"
 				>
 			</File>
@@ -804,6 +807,9 @@
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
+			<File
+				RelativePath="..\..\Swig\SwigOutput\CplusDLLIncludes\RakNet_wrap.h"
+				>
 			<File
 				RelativePath="..\..\Source\_FindFirst.h"
 				>
