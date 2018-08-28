@@ -361,6 +361,7 @@
 			<File
 				RelativePath="..\..\Swig\SwigOutput\CplusDLLIncludes\RakNet_wrap.cxx"
 				>
+			</File>
 			<File
 				RelativePath="..\..\Source\_FindFirst.cpp"
 				>
@@ -810,6 +811,7 @@
 			<File
 				RelativePath="..\..\Swig\SwigOutput\CplusDLLIncludes\RakNet_wrap.h"
 				>
+			</File>
 			<File
 				RelativePath="..\..\Source\_FindFirst.h"
 				>
