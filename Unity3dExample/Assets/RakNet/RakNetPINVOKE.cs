@@ -12,7 +12,9 @@ using System;
 using System.Runtime.InteropServices;
 
 class RakNetPINVOKE {
-#if UNITY_IOS
+#if UNITY_EDITOR
+    public const string LIB_NAME = "RakNet";
+#elif UNITY_IOS
     public const string LIB_NAME = "__Internal";
 #else
     public const string LIB_NAME = "RakNet";
