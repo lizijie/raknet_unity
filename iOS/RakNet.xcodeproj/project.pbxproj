@@ -1008,6 +1008,7 @@
 					armv7s,
 				);
 				CODE_SIGN_STYLE = Automatic;
+				ENABLE_BITCODE = NO;
 				"EXPORTED_SYMBOLS_FILE[sdk=*]" = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
@@ -1027,6 +1028,7 @@
 					armv7s,
 				);
 				CODE_SIGN_STYLE = Automatic;
+				ENABLE_BITCODE = NO;
 				"EXPORTED_SYMBOLS_FILE[sdk=*]" = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
